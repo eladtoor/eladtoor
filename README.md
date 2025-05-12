@@ -33,4 +33,4 @@ A full-featured admin dashboard built with React, Node.js, Firebase, and MongoDB
 ---
 
 ### 📫 Let's connect
-[LinkedIn](linkedin.com/in/elad-toorgeman-3a27b8233) • [GitHub](https://github.com/eladtoor) • [Email](mailto:eladtoorgeman@gmail.com)
+[LinkedIn]([LinkedIn](https://www.linkedin.com/in/elad-toorgeman-3a27b8233)) • [GitHub](https://github.com/eladtoor) • [Email](mailto:eladtoorgeman@gmail.com)
